@@ -1,6 +1,6 @@
 # DestiWisata - Frontend
 
-DestiWisata - Frontend is a website display that displays a variety of tourist destinations created using React Native and other supporting materials.als.
+DestiWisata - Frontend is a website display that displays a variety of tourist destinations created using React Native and other supporting materials.
 
 
 ## Getting Started
